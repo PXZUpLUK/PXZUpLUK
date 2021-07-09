@@ -10,7 +10,7 @@ I'm a Student, if there is a mistake please guide me
 ### Connect with me:
 
 [<img align="left" width="22" alt="PModzTEAM on YouTube" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg">][YouTube]
-[<img align="left" width="22" alt="LutfilahDz on Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg">](https://t.me/plexusch)
+[<img align="left" width="22" alt="PLEXUSCH on Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg">](https://t.me/plexusch)
 [<img align="left" width="22" alt="dvarvian on Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg">](https://instagram.com/dvarvian)
 [<img align="left" width="22" alt="PLLEXUS on Website" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://plexuscheat.my.id)
 <br>
@@ -41,10 +41,10 @@ I'm a Student, if there is a mistake please guide me
 </p>
 <p align="center">
     <a href="https://youtube.com/PLEXUSCH?sub_confirmation=1"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCPHiZNMamtbYzGOICSKoY2A?label=YouTube&logo=YouTube&style=for-the-badge"></a>
-    <a href="https://github.com/PXZUpLUK?tab=followers"><img alt="GitHub" src="https://img.shields.io/github/followers/lutfilahdzaky?label=GitHub&logo=GitHub&style=for-the-badge"></a>
+    <a href="https://github.com/PXZUpLUK?tab=followers"><img alt="GitHub" src="https://img.shields.io/github/followers/PXZUpLUK?label=GitHub&logo=GitHub&style=for-the-badge"></a>
 <p align="center">
     <a href="https://plexuscheat.my.id"><img alt="Website" src="https://img.shields.io/website?down_message=Offline&label=plexuscheat.my.id&style=flat-square&up_message=Online&url=https%3A%2F%2Fplexuscheat.my.id"></a>
-    <a href="https://github.com/PXZUpLUK"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=lutfilahdzaky&style=flat-square"></a>
+    <a href="https://github.com/PXZUpLUK"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=PXZUpLUK&style=flat-square"></a>
 </p>
 
 [YouTube]: https://youtube.com/PLEXUSCH?sub_confirmation=1
