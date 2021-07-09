@@ -40,10 +40,10 @@ I'm a Student, if there is a mistake please guide me
     <a href="https://github.com/PXZUpLUK"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=PXZUpLUK&theme=dracula&hide_border=true"></a>
 </p>
 <p align="center">
-    <a href="https://youtube.com/PXZUpLUK?sub_confirmation=1"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCPHiZNMamtbYzGOICSKoY2A?label=YouTube&logo=YouTube&style=for-the-badge"></a>
+    <a href="https://youtube.com/PLEXUSCH?sub_confirmation=1"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCPHiZNMamtbYzGOICSKoY2A?label=YouTube&logo=YouTube&style=for-the-badge"></a>
     <a href="https://github.com/PXZUpLUK?tab=followers"><img alt="GitHub" src="https://img.shields.io/github/followers/lutfilahdzaky?label=GitHub&logo=GitHub&style=for-the-badge"></a>
 <p align="center">
-    <a href="https://plexuscheat.my.id"><img alt="Website" src="https://img.shields.io/website?down_message=Offline&label=lutfilahdz.my.id&style=flat-square&up_message=Online&url=https%3A%2F%2Fplexuscheat.my.id"></a>
+    <a href="https://plexuscheat.my.id"><img alt="Website" src="https://img.shields.io/website?down_message=Offline&label=plexuscheat.my.id&style=flat-square&up_message=Online&url=https%3A%2F%2Fplexuscheat.my.id"></a>
     <a href="https://github.com/PXZUpLUK"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=lutfilahdzaky&style=flat-square"></a>
 </p>
 
